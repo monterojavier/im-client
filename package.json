@@ -44,7 +44,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "electron-squirrel-startup": "^1.0.0",
     "google-translate-api": "^2.3.0",
     "materialize-css": "^1.0.0-rc.2",
